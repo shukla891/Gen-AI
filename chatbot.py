@@ -5,7 +5,7 @@ from langchain_openai import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain.chains.question_answering import load_qa_chain
 from langchain_community.chat_models import ChatOpenAI
-OPENAI_API_KEY='sk-proj-U79eiw7A2yNtx0llKjnkT3BlbkFJWcAUYLn8sWVu3uwIm336'
+OPENAI_API_KEY='sk-proj-U79eiw7A2yNtx0llKjnkT3BlbkFJWcAUYLn8sWVu3uwIm'
 
 #  Upload PDF files
 st.header("My first Chatbot")
